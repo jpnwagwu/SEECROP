@@ -1,0 +1,3 @@
+Download train.csv to your computer and the json file via kaggle https://www.kaggle.com/c/cassava-leaf-disease-classification/data
+
+Next change file directories in code and run
