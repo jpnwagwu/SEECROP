@@ -21,6 +21,8 @@ OUTPUT
 ---------------------------------------------------------------------------------------
 identifies diseases present in plant
 
+--------------------------------------------------------------------------------------------------
 REFERENCES
+--------------------------------------------------------------------------------------------------
 Makerere University AI Lab. Cassava Leaf Diseases Classification. Retrieved from: https://www.kaggle.com/c/cassava-leaf-disease-classification/overview
 The Engineering Design Process. Retrieved from: https://www.sciencebuddies.org/science-fair-projects/engineering-design-process/engineering-design-process-steps
